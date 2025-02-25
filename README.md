@@ -5,7 +5,7 @@ RunGroops is an online platform for runners. This platform helps you find clubs,
 ## 🏃 Getting Started
 
 ### Database Setup
-Watch the [YouTube video]([#](https://www.youtube.com/watch?v=af_tK9LUiX0)) on how to set up the database.
+Watch the [YouTube video](https://www.youtube.com/watch?v=af_tK9LUiX0) on how to set up the database.
 
 ### Clone the Repository
 Navigate to the directory where you want to keep the project and run the following command:
